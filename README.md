@@ -9,7 +9,7 @@ python robot_simulation.py
 ```
 
 ## Launch in Binder
-Click the badge below (after pushing this repo to GitHub; replace `USER` and `REPO`):
+Click the badge below (after pushing this repo to GitHub; replace `alejandrodario-satr` and `3D-bounce-robot-Simulation`):
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USER/REPO/HEAD?labpath=simulation.ipynb)
 
